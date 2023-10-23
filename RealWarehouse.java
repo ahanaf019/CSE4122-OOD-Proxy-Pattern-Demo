@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class RealWarehouse implements Warehouse {
+public class RealWarehouse implements IWarehouse {
 
     private HashMap<Integer, String> productList;
     private HashMap<Integer, Integer> productStock;

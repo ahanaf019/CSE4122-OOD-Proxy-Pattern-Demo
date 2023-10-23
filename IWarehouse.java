@@ -1,4 +1,4 @@
-interface Warehouse {
+interface IWarehouse {
     
     int addProduct(String productName);
 

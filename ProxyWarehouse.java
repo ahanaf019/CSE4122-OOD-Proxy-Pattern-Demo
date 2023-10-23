@@ -1,4 +1,4 @@
-public class ProxyWarehouse implements Warehouse {
+public class ProxyWarehouse implements IWarehouse {
 
     private RealWarehouse realWarehouse;
 

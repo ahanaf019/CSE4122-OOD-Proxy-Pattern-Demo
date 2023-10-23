@@ -1,0 +1,8 @@
+PRODUCT ADDED. name: Chips, id:100
+PRODUCT ADDED. name: Biscuit, id:101
+PRODUCT ADDED. name: Pepsi, id:102
+Stock Added. name: Chips, quantity:5
+Stock Added. name: Biscuit, quantity:20
+Stock Added. name: Pepsi, quantity:10
+SUCCESS: 2 x Chips shipped.
+SUCCESS: 5 x Pepsi shipped.

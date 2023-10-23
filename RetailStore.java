@@ -1,6 +1,6 @@
 public class RetailStore {
     public static void main(String[] args) {
-        Warehouse warehouse = new ProxyWarehouse();
+        IWarehouse warehouse = new ProxyWarehouse();
 
         warehouse.addProduct("Chips");
         warehouse.addProduct("Biscuit");
